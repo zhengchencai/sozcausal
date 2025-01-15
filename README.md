@@ -1,4 +1,7 @@
 # Maximizing surgical success in epilepsy: seizure-onset zone resection is crucial, while extending beyond offers no added benefit (supplementary file 2)
+
+**Please download the HTML file and view it in a browser**. 
+
 Chifaou Abdallah1,2,†,*, Zhengchen Cai1,†, Saba Rammal1, Olivier Aron3,4, Nicolás Von Ellenrieder1, Gang Chen5, Sana Hannan6, John Thomas7,8, Philippe Kahane9, Lorella Minotti9, Stephan Chabardes9, Sophie Colnat-Coulbois3,4, Louis Maillard3,4, Jeff Hall1, Francois Dubeau1, Jean Gotman1, Christophe Grova2,10,11,‡, Birgit Frauscher1,7,8,*,‡
 
 1. Montreal Neurological Institute and Hospital, McGill University, Montréal, Québec H3A 2B4, Canada.
@@ -29,7 +32,7 @@ Chifaou Abdallah1,2,†,*, Zhengchen Cai1,†, Saba Rammal1, Olivier Aron3,4, Ni
 
 Corresponding Author: Chifaou Abdallah and Birgit Frauscher 
 
-This supplementary material summarizes the analysis conducted for the manuscript “Maximizing surgical success in epilepsy: seizure-onset zone resection is crucial, while extending beyond offers no added benefit .”
+This supplementary material summarizes the analysis conducted for the manuscript “Maximizing surgical success in epilepsy: seizure-onset zone resection is crucial, while extending beyond offers no added benefit .” 
 
 Instructions: Each results section contains the corresponding computation code chunk. All code chunks and printed messages are folded by default. They can be unfolded to see the details. This provides a more coherent way of presenting results and code together. Highlighted text is in orange, and hyperlinks to references and sections are in light blue.
 
