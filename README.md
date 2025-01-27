@@ -2,7 +2,7 @@
 
 **Please download the HTML file and view it in a browser**. 
 
-Chifaou Abdallah<sup>1,2,†,*</sup>, Zhengchen Cai<sup>1,†</sup>, Saba Rammal<sup>1</sup>, Olivier Aron<sup>3,4</sup>, Nicolás Von Ellenrieder<sup>1</sup>, Gang Chen<sup>5</sup>, Sana Hannan<sup>6</sup>, John Thomas<sup>7,8</sup>, Philippe Kahane<sup>9</sup>, Lorella Minotti<sup>9</sup>, Stephan Chabardes<sup>9</sup>, Sophie Colnat-Coulbois<sup>3,4</sup>, Louis Maillard<sup>3,4</sup>, Jeff Hall<sup>1</sup>, Francois Dubeau<sup>1</sup>, Jean Gotman<sup>1</sup>, Christophe Grova<sup>2,10,11,‡</sup>, Birgit Frauscher<sup>1,7,8,*,‡</sup>
+Chifaou Abdallah<sup>1,2,†,\*</sup>, Zhengchen Cai<sup>1,†</sup>, Saba Rammal<sup>1</sup>, Olivier Aron<sup>3,4</sup>, Nicolás Von Ellenrieder<sup>1</sup>, Gang Chen<sup>5</sup>, Sana Hannan<sup>6</sup>, John Thomas<sup>7,8</sup>, Philippe Kahane<sup>9</sup>, Lorella Minotti<sup>9</sup>, Stephan Chabardes<sup>9</sup>, Sophie Colnat-Coulbois<sup>3,4</sup>, Louis Maillard<sup>3,4</sup>, Jeff Hall<sup>1</sup>, Francois Dubeau<sup>1</sup>, Jean Gotman<sup>1</sup>, Christophe Grova<sup>2,10,11,‡</sup>, Birgit Frauscher<sup>1,7,8,\*,‡</sup>
 
 1. Montreal Neurological Institute and Hospital, McGill University, Montréal, Québec H3A 2B4, Canada.
 
